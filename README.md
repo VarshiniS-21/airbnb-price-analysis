@@ -57,5 +57,5 @@ The data is the public "NYC Airbnb Open Data (2019)" set from Kaggle, with 48,89
 ## Summary
 This project explores NYC Airbnb data using Python and SQL, combining summary statistics and visuals to show how location and room type shape prices and how the market is spread across the city.
 
-*## Acknowledgements
+* Acknowledgements
 Learned the workflow through a guided course; analysis and write-up done by me.*
